@@ -1,0 +1,29 @@
+html, body {
+    margin: 10;
+    padding: 10;
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    width: 404.4px;
+    height: 404.4px;
+    border: solid black;
+}
+
+.x {
+    background-image: url(img/x.png);
+    background-size: cover;
+}
+
+.o {
+    background-image: url(img/o.png);
+    background-size: cover;
+}
+
+.square {
+
+    width: 130px;
+    height: 130px;
+    border: solid black;
+}

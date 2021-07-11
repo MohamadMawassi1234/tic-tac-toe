@@ -1,0 +1,1 @@
+This is the first app I built by myslelf, to train myself in javascript.
